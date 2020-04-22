@@ -1,0 +1,22 @@
+{
+  "name": "jesttutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadelmir/jestTut.git"
+  },
+  "author": "jad el mir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadelmir/jestTut/issues"
+  },
+  "homepage": "https://github.com/jadelmir/jestTut#readme",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
